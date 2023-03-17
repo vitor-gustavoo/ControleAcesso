@@ -11,7 +11,7 @@ namespace Repository
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("Server=localhost;Uid=root;Database=controleAcesso;");
+            optionsBuilder.UseMySql("Server=localhost;Uid=root;Database=controleacesso;");
         }
 
     }
