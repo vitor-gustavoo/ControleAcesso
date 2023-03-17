@@ -17,7 +17,7 @@ namespace Models
 
         public override string ToString()
         {
-        return $"Id: {this.Id} - Nome: {this.Nome} - Email: {this.Email} - Perfil: {Models.Perfil.GetProfileByUser(this)}";
+        return $"Id: {this.Id} - Nome: {this.Nome} - Email: {this.Email} - Perfil: {Models.Perfil.GetPerfilByUser(this)}";
         }
 
 

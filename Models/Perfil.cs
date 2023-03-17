@@ -7,7 +7,6 @@ namespace Models
         public int Id {get; set;}
         public int UsuarioId {get; set;}
        public virtual Usuarios usuario {get; set;}
-       //public Enumerators.PerfilType PerfilType {get; set;}
 
         public Perfil() {}
 
