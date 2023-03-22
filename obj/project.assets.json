@@ -5593,11 +5593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj",
+      "projectUniqueName": "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj",
       "projectName": "AtividadeControleAcesso",
-      "projectPath": "c:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj",
+      "projectPath": "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj",
       "packagesPath": "C:\\Users\\Vitor Gustavo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\obj\\",
+      "outputPath": "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitor Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"

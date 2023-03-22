@@ -1,13 +1,17 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using Model;
 
 namespace Repository
 {
     public class Context : DbContext
     {
         
-        public DbSet<Models.Usuarios> Usuarios { get; set;}
-        public DbSet<Models.Perfil> Perfil { get; set; }
-        public DbSet<Models.Sessoes> Sessoes { get; set; }
+        public DbSet<Usuario> Usuarios { get; set;}
+        public DbSet<Perfil> Perfis { get; set; }
+        public DbSet<Sessao> Sessoes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
