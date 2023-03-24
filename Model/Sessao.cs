@@ -98,5 +98,25 @@ namespace Model
                 return null;
             }
         }
+
+        public static int BuscarSessoesAtivas(int usuarioId)
+        {
+            
+            try
+            {
+                Context db = new Context();
+                int sessao = (from s in db.Sessoes
+                                 where s.UsuarioId == usuarioId
+                                    && s.DataExpiracao > DateTime.UtcNow
+                                 select s).Count();
+                return sessao;
+            }
+            catch (Exception)
+            {
+               throw new Exception("Sessão não encontrada");
+            }
+        }
+
+        
     }   
 }

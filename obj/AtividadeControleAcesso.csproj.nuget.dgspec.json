@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj": {}
+    "C:\\Users\\vitor.oliveira6\\Documents\\ControleAcesso\\AtividadeControleAcesso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj": {
+    "C:\\Users\\vitor.oliveira6\\Documents\\ControleAcesso\\AtividadeControleAcesso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj",
+        "projectUniqueName": "C:\\Users\\vitor.oliveira6\\Documents\\ControleAcesso\\AtividadeControleAcesso.csproj",
         "projectName": "AtividadeControleAcesso",
-        "projectPath": "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\AtividadeControleAcesso.csproj",
-        "packagesPath": "C:\\Users\\Vitor Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor Gustavo\\Documents\\Faculdade3Fase\\DevDesktop\\ExerciciosAulas\\AtividadeControleAcesso\\obj\\",
+        "projectPath": "C:\\Users\\vitor.oliveira6\\Documents\\ControleAcesso\\AtividadeControleAcesso.csproj",
+        "packagesPath": "C:\\Users\\vitor.oliveira6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor.oliveira6\\Documents\\ControleAcesso\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vitor Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vitor.oliveira6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,19 +47,19 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[7.0.2, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[7.0.0, )"
             },
-            "Pomelo.EntityFrameworkCore.MySql.Design": {
+            "Pomelo.EntityFrameworkCore.Mysql.Design": {
               "target": "Package",
               "version": "[1.1.2, )"
             }
@@ -76,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

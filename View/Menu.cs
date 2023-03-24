@@ -38,24 +38,24 @@ namespace View
                     case 4:
                         View.Usuario.ListarUsuarios();
                         break;
-                    // case 5:
-                    //     View.Perfil.CriarPerfil();
-                    //     break;
-                    // case 6:
-                    //     View.Perfil.ExcluirPerfil();
-                    //     break;
-                    // case 7:
-                    //     View.Perfil.ListarPerfis();
-                    //     break;
-                    // case 8:
-                    //     View.Sessao.Login();
-                    //     break;
-                    // case 9:
-                    //     View.Sessao.Logoff();
-                    //     break;
-                    // case 10:
-                    //     View.Sessao.ListarSessoes();
-                    //     break;
+                    case 5:
+                        View.Perfil.CriarPerfil();
+                        break;
+                    case 6:
+                        View.Perfil.ExcluirPerfil();
+                        break;
+                    case 7:
+                        View.Perfil.ListarPerfis();
+                        break;
+                    case 8:
+                        View.Sessao.Login();
+                        break;
+                    case 9:
+                        View.Sessao.Logout();
+                        break;
+                    case 10:
+                        View.Sessao.ListarSessoes();
+                        break;
                     case 0:
                         System.Console.WriteLine("Obrigado por utilizar nossos serviços!");
                         break;

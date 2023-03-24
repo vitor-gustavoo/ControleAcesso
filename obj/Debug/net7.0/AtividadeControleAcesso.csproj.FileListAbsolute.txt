@@ -35,3 +35,40 @@ C:\Users\Vitor Gustavo\Documents\Faculdade3Fase\DevDesktop\ExerciciosAulas\Ativi
 C:\Users\Vitor Gustavo\Documents\Faculdade3Fase\DevDesktop\ExerciciosAulas\AtividadeControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.pdb
 C:\Users\Vitor Gustavo\Documents\Faculdade3Fase\DevDesktop\ExerciciosAulas\AtividadeControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.genruntimeconfig.cache
 C:\Users\Vitor Gustavo\Documents\Faculdade3Fase\DevDesktop\ExerciciosAulas\AtividadeControleAcesso\obj\Debug\net7.0\ref\AtividadeControleAcesso.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\AtividadeControleAcesso.exe
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\AtividadeControleAcesso.deps.json
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\AtividadeControleAcesso.runtimeconfig.json
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\AtividadeControleAcesso.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\AtividadeControleAcesso.pdb
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.csproj.AssemblyReference.cache
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.AssemblyInfoInputs.cache
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.AssemblyInfo.cs
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets\msbuild.AtividadeControleAcesso.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets\msbuild.build.AtividadeControleAcesso.props
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AtividadeControleAcesso.props
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AtividadeControleAcesso.props
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\scopedcss\bundle\AtividadeControleAcesso.styles.css
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.csproj.CopyComplete
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\refint\AtividadeControleAcesso.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.pdb
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\AtividadeControleAcesso.genruntimeconfig.cache
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\obj\Debug\net7.0\ref\AtividadeControleAcesso.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Humanizer.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\vitor.oliveira6\Documents\ControleAcesso\bin\Debug\net7.0\System.CodeDom.dll

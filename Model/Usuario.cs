@@ -1,6 +1,8 @@
 using Repository;
+using System;
 using System.Linq;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 
 namespace Model
@@ -30,7 +32,7 @@ namespace Model
 
         public override string ToString()
         {
-        return $"Id: {Id} - Nome: {Nome} - Email: {Email} - Senha: {Senha}";
+        return $"Id: {Id} - Nome: {Nome} - Email: {Email} - Senha: {Senha} - Sessões Ativas: {Model.Sessao.BuscarSessoesAtivas(this.Id)}";
         }
 
         public override int GetHashCode()
